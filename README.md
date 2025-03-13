@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-with-amul&show_icons=true&locale=en" alt="code-with-amul" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-amul&" alt="code-with-amul" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-amul" alt="code-with-amul" /></p>
