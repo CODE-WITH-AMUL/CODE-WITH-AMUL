@@ -1,32 +1,56 @@
-<h1 align="center">Hi 👋, I'm Amul Sharma</h1>
-<h3 align="center">A passionate Backend developer from Nepal</h3>
+# 👋 Hi, I'm Amul Sharma (@CodeWithAmul)
+### Python | Django | Backend Developer from Nepal 🇳🇵
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-amul&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-amul"/> </p>
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge)](https://red-jenifer-73.tiiny.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amul-sharma)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@CodeWithAmul)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amulshar80@gmail.com)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-with-amul" alt="code-with-amul" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Study Hub and Geeta**
-
-- 🌱 I’m currently learning **Django, Python,Docker and javascript**
-
-- 👨‍💻 All of my projects are available at [https://red-jenifer-73.tiiny.site](https://red-jenifer-73.tiiny.site)
-
-- 📫 How to reach me **amulshar80@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amul sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amul sharma" height="30" width="40" /></a>
-<a href="https://fb.com/amul sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amul sharma" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code with amul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with amul" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=code-with-amul&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-amul" />
+  <a href="https://github.com/code-with-amul?tab=followers">
+    <img src="https://img.shields.io/github/followers/code-with-amul?label=Followers&style=social" alt="GitHub followers">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🔥 Current Focus
+- 🚀 Building **Study Hub** and **Geeta** (Django projects)
+- 📚 Learning **Docker, Advanced JavaScript, and System Design**
+- 💡 Exploring **Open Source Contributions**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-amul&show_icons=true&locale=en&layout=compact" alt="code-with-amul" /></p>
+## 🛠️ Tech Stack
+**Backend:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-with-amul&show_icons=true&locale=en" alt="code-with-amul" /></p>
+**Frontend:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-amul" alt="code-with-amul" /></p>
+**DevOps & Tools:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=code-with-amul&show_icons=true&theme=radical" alt="CodeWithAmul's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-amul&theme=radical" alt="CodeWithAmul's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-amul&layout=compact&theme=radical" alt="CodeWithAmul's Top Languages" />
+</p>
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=code-with-amul&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📫 Let's Connect!
+- 💼 LinkedIn: [Amul Sharma](https://linkedin.com/in/amul-sharma)
+- 📧 Email: [amulshar80@gmail.com](mailto:amulshar80@gmail.com)
+- 🎥 YouTube: [CodeWithAmul](https://youtube.com/@CodeWithAmul)
+- 🌐 Portfolio: [https://red-jenifer-73.tiiny.site](https://red-jenifer-73.tiiny.site)
+
+> "Code is like humor. When you have to explain it, it's bad." - Cory House
