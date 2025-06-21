@@ -14,8 +14,7 @@
 </p>
 
 ## 🔥 Current Focus
-- 🚀 Building **Study Hub** and **Geeta** (Django projects)
-- 📚 Learning **Docker, Advanced JavaScript, and System Design**
+- 📚 Learning **Docker, and System Design**
 - 💡 Exploring **Open Source Contributions**
 
 ## 🛠️ Tech Stack
