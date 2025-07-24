@@ -47,7 +47,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=code-with-amul&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Let's Connect!
-- 💼 LinkedIn: [Amul Sharma](https://linkedin.com/in/amul-sharma)
+- 💼 LinkedIn: [Amul Sharma](https://www.linkedin.com/in/amul-sharma-882953323/)
 - 📧 Email: [amulshar80@gmail.com](mailto:amulshar80@gmail.com)
 - 🎥 YouTube: [CodeWithAmul](https://youtube.com/@CodeWithAmul)
 - 🌐 Portfolio: [https://red-jenifer-73.tiiny.site](https://red-jenifer-73.tiiny.site)
