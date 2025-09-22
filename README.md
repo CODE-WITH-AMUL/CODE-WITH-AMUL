@@ -82,4 +82,4 @@
 
 ---
 
-> *“Reality is wrong. Dreams are for real," "I don't have no fear of death. My only fear is coming back reincarnated," "They got money for wars, but can't feed the poor," "Real Eyes, Realize, Real Lies," and "I'd rather die like a man, than live like a coward”* – Pac
+> *“I don't have no fear of death. My only fear is coming back reincarnated, wReal Eyes, Realize, Real Lies," and "I'd rather die like a man, than live like a coward”* – Pac
