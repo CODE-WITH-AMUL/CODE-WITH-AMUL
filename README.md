@@ -82,4 +82,4 @@
 
 ---
 
-> *“I don't have no fear of death. My only fear is coming back reincarnated, wReal Eyes, Realize, Real Lies," and "I'd rather die like a man, than live like a coward”* – Pac
+> *“I don't have no fear of death. My only fear is coming back reincarnated," and "I'd rather die like a man, than live like a coward”* – Pac
