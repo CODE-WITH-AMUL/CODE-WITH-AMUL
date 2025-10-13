@@ -60,13 +60,12 @@
 ---
 
 ## 🎥 Latest YouTube Videos
-
-[![Build AI Resume Generator](https://ytcards.demolab.com/?id=BOhMPtz1sKg\&title=Build+AI+Resume+Generator\&lang=en\&timestamp=1714406400\&background_color=%23181818\&title_color=%23ffffff\&stats_color=%23dedede\&width=250\&border_radius=5 "Build AI Resume Generator")](https://www.youtube.com/watch?v=BOhMPtz1sKg)
+[![I Made a Python Program That Tells Jokes on Your Desktop | Python Project for Beginners]([https://ytcards.demolab.com/?id=BOhMPtz1sKg\&title=Build+AI+Resume+Generator\&lang=en\&timestamp=1714406400\&background_color=%23181818\&title_color=%23ffffff\&stats_color=%23dedede\&width=250\&border_radius=5 "Build AI Resume Generator")](https://www.youtube.com/watch?v=BOhMPtz1sKg](https://www.youtube.com/watch?v=o8OeGACIaTg))
 [![Django Todo App](https://ytcards.demolab.com/?id=sE1TfFIR3co\&title=Django+Todo+App\&lang=en\&timestamp=1714406400\&background_color=%23181818\&title_color=%23ffffff\&stats_color=%23dedede\&width=250\&border_radius=5 "Django Todo App")](https://www.youtube.com/watch?v=sE1TfFIR3co)
 [![Learn Django Models](https://ytcards.demolab.com/?id=5dI1ZCdM1L0\&title=Learn+Django+Models\&lang=en\&timestamp=1714406400\&background_color=%23181818\&title_color=%23ffffff\&stats_color=%23dedede\&width=250\&border_radius=5 "Learn Django Models")](https://www.youtube.com/watch?v=5dI1ZCdM1L0)
 
 <p align="center">
-  <a href="https://youtube.com/@CodeWithAmul?sub_confirmation=1">
+  <a href="https://www.youtube.com/@Code-With-amul">
     <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white" />
   </a>
 </p>  
