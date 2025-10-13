@@ -59,14 +59,29 @@
 
 ---
 
+
+
 ## 🎥 Latest YouTube Videos
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=o8OeGACIaTg" target="_blank">I Made a Python Program That Tells Jokes on Your Desktop | Python Project for Beginners</a><br>
-  <a href="https://www.youtube.com/watch?v=jb_g1ywW3ho" target="_blank">Learn Python from Scratch - Installation, Print(), Variables & More!</a><br>
-  <a href="https://www.youtube.com/watch?v=sE1TfFIR3co&t=67s" target="_blank">Create an AI-Powered Image Generator with Django | HTML, CSS & JavaScript Guide</a><br>
-  <a href="https://www.youtube.com/watch?v=I8lotFZxwVw" target="_blank">Creating Summary AI in Django - Day 1 | ft. CodeWithAmul</a>
+  <a href="https://www.youtube.com/watch?v=o8OeGACIaTg" target="_blank">
+    <img src="https://img.youtube.com/vi/o8OeGACIaTg/0.jpg" alt="Python Jokes Desktop" width="250" style="margin:5px"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=jb_g1ywW3ho" target="_blank">
+    <img src="https://img.youtube.com/vi/jb_g1ywW3ho/0.jpg" alt="Learn Python from Scratch" width="250" style="margin:5px"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=sE1TfFIR3co&t=67s" target="_blank">
+    <img src="https://img.youtube.com/vi/sE1TfFIR3co/0.jpg" alt="AI-Powered Image Generator" width="250" style="margin:5px"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=I8lotFZxwVw" target="_blank">
+    <img src="https://img.youtube.com/vi/I8lotFZxwVw/0.jpg" alt="Summary AI in Django" width="250" style="margin:5px"/>
+  </a>
 </p>
+
+<p align="center">
+  Click the thumbnails to watch the videos! 🎬
+</p>
+
 
 <p align="center">
   <a href="https://www.youtube.com/@Code-With-amul">
