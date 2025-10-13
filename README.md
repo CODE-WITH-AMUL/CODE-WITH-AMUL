@@ -60,9 +60,13 @@
 ---
 
 ## 🎥 Latest YouTube Videos
-[![I Made a Python Program That Tells Jokes on Your Desktop | Python Project for Beginners]([https://ytcards.demolab.com/?id=BOhMPtz1sKg\&title=Build+AI+Resume+Generator\&lang=en\&timestamp=1714406400\&background_color=%23181818\&title_color=%23ffffff\&stats_color=%23dedede\&width=250\&border_radius=5 "Build AI Resume Generator")](https://www.youtube.com/watch?v=BOhMPtz1sKg](https://www.youtube.com/watch?v=o8OeGACIaTg))
-[![Django Todo App](https://ytcards.demolab.com/?id=sE1TfFIR3co\&title=Django+Todo+App\&lang=en\&timestamp=1714406400\&background_color=%23181818\&title_color=%23ffffff\&stats_color=%23dedede\&width=250\&border_radius=5 "Django Todo App")](https://www.youtube.com/watch?v=sE1TfFIR3co)
-[![Learn Django Models](https://ytcards.demolab.com/?id=5dI1ZCdM1L0\&title=Learn+Django+Models\&lang=en\&timestamp=1714406400\&background_color=%23181818\&title_color=%23ffffff\&stats_color=%23dedede\&width=250\&border_radius=5 "Learn Django Models")](https://www.youtube.com/watch?v=5dI1ZCdM1L0)
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=o8OeGACIaTg" target="_blank">I Made a Python Program That Tells Jokes on Your Desktop | Python Project for Beginners</a><br>
+  <a href="https://www.youtube.com/watch?v=jb_g1ywW3ho" target="_blank">Learn Python from Scratch - Installation, Print(), Variables & More!</a><br>
+  <a href="https://www.youtube.com/watch?v=sE1TfFIR3co&t=67s" target="_blank">Create an AI-Powered Image Generator with Django | HTML, CSS & JavaScript Guide</a><br>
+  <a href="https://www.youtube.com/watch?v=I8lotFZxwVw" target="_blank">Creating Summary AI in Django - Day 1 | ft. CodeWithAmul</a>
+</p>
 
 <p align="center">
   <a href="https://www.youtube.com/@Code-With-amul">
