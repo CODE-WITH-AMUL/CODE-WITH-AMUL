@@ -110,7 +110,7 @@ Beyond coding, I share my development journey and technical insights through con
 
 <div align="center">
   
-*"The only way to do great work is to love what you do."* – **Steve Jobs**
+*"Only God can judge me," and "I'm not perfect, but I'll always be rea."* – **2PC**
 
 </div>
 
