@@ -110,7 +110,7 @@ Beyond coding, I share my development journey and technical insights through con
 
 <div align="center">
   
-*"Only God can judge me," and "I'm not perfect, but I'll always be rea."* – **2PC**
+*"Only God can judge me," and "I'm not perfect, but I'll always be real."* – **2PC**
 
 </div>
 
